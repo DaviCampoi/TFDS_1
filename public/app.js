@@ -31,6 +31,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // Codar aqui
 
+    // Professor, comentei em cada linha para ficar mais fácil de estudar o meu código para execução de próximas tarefas
+
     // 1) Criar uma list <ul> com itens <li> das tarefas já existentes na array
 
   const listWrapper = document.getElementById("list-wrapper"); // pega a section id="list-wrapper" do HTML
